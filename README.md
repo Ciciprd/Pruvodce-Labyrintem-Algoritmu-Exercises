@@ -1,2 +1,2 @@
-# Pruvodce-Labyrintem-Algoritmu-Priklady
-For solving examples from the book "Průvodce labyrintem algoritmů"
+# Pruvodce Labyrintem Algoritmu Exercises
+For solving examples and exercises from the book "Průvodce labyrintem algoritmů"
